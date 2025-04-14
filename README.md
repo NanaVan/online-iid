@@ -12,7 +12,7 @@ An online ion identification (iid) script for isochronous Schottky spectrum via 
 ```shell
 > jupyter lab
 ```
-3. Click `iid_script-188.ipynb` as an example. Carefully read it and make your own iid_scripy.ipnb.
+3. Click `iid_script-188Hf.ipynb` as an example. Carefully read it and make your own iid_scripy.ipnb.
 
 ## Description
 Class `IID` in `iid_isochronous.py` provides simulated Schottky spectrum.
