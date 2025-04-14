@@ -22,3 +22,7 @@ Class `IID` in `iid_isochronous.py` provides simulated Schottky spectrum.
 Class `SWEEP_IID` in `sweep_iid.py` provides method to loop the possible Brho-C pairs, and give a recommanded Brho-C for the experimental spectrum to show a proper iid result.
 
 Class `NONPARAMS_EST` in `nonparams_est.py` provides method to calibrate the baseline of the experimental Schottky spectrum. More details can be found in [baseline-estimate](https://github.com/NanaVan/baseline-estimate).
+
+`.lpp` is the ion simulated file generated from LISE++ program based on the setting of the experiment.
+
+`.npz` is the experimental Schottky spectrum file, with `arr_0` for absolute frequency, `arr_1` for the power spectral density.
